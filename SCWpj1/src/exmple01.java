@@ -24,7 +24,7 @@ public class exmple01 {
 	
 	System.out.println("\"Hello World\"");
 	System.out.println("\"Hello World\"");
-// 송찬우 바보 ㅋㅋㅋㅋ
+// 송찬우 바보 ㅋㅋㅋㅋㅋ
 	}
 
 }
