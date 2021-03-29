@@ -8,14 +8,21 @@ public class Day06 {
 	for(int b = 0; b<=20; b++) {
 			
 			System.out.println(b+b);
+			
+			for(b = 0; b<=20; b++) {
+				
+				System.out.println(b*b);
+			
 	}
 		
 		
 		
 		
-		
+			{
 		
 	
 
 	}
+}
+}
 }
