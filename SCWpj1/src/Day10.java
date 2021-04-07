@@ -13,10 +13,10 @@ public class Day10 {
 
 		for (int i = 0; i <= a; i++) {
 			
-			
+			 
 		b+=i;	
-			
-		}
+	 
+		} 
 			
 			System.out.println(b);
 
