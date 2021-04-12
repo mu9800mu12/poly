@@ -19,7 +19,7 @@ public class Day16 {
 					System.out.print("*");
 				}
 			}
-
+ 
 			System.out.println();
 
 		}
